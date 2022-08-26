@@ -1,4 +1,4 @@
-Hi ! I'm @mgavillo from 42 school.
+Hi ! I'm Marie from 42 school.
 
 I'm interested in a lot of stuff : crypto, web dev, design, electronics, AI and I try to fulfill all of these passions.  
 I like making beautifull stuff, on the output part but also on the coding part. Evil's in the details, so do professionalism, is'nt it ?   
